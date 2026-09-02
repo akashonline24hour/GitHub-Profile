@@ -1,37 +1,107 @@
-# Hi 👋, I'm Akash Chandra Paul  
-### 🔭 I build things with JavaScript, React, and Node.js
+# Hi 👋, I'm Akash Chandra Paul
+
+### 🚀 Full-Stack Web Developer | MERN Stack
+
+I’m a passionate **Full-Stack Web Developer** who enjoys building modern, responsive, and user-friendly web applications.
+
+I’m currently focused on strengthening my skills in **JavaScript, React, Node.js, Express.js, and MongoDB**, while building real-world projects and improving my problem-solving abilities.
 
 ---
 
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications using the **MERN** stack. I love working with **JavaScript**, **React**, **Node.js**, and **MongoDB**, and I'm always exploring new tools to improve my workflow.  
+## 👨‍💻 About Me
 
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
-
----
-
-## 🛠️ Tech Stack  
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🔭 Currently building and improving **MERN Stack projects**
+- 🌱 Currently learning **GraphQL, Docker, and advanced JavaScript**
+- 💻 Interested in **Full-Stack Web Development**
+- 🧠 Always learning new technologies and improving my coding skills
+- 🤝 Open to collaborating on interesting **web development projects**
+- 💬 Feel free to talk to me about **JavaScript, React, Node.js, or Web Development**
+- ⚡ I enjoy turning ideas into functional web applications
 
 ---
 
-## 🌐 Connect With Me  
+## 🛠️ Tech Stack
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashonline24hours@gmail.com)
+### Frontend
 
+HTML\
+CSS\
+**JavaScript**\
+TypeScript\
+React\
+Tailwind CSS
+
+### Backend & Database
+
+Node.js\
+Express.js\
+MongoDB
+
+### Tools
+
+Git\
+VSCode\
+POSTMAN\
+
+
+---
+
+## 🚀 Featured Projects
+
+### ☕ Coffee House
+
+A responsive coffee shop website built to practice modern HTML and CSS layouts.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 👤 Portfolio Website
+
+A personal portfolio website showcasing my skills, projects, and development journey.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 📇 Contact App
+
+A backend-focused CRUD application for managing contacts.
+
+**Tech:** Node.js • Express.js • MongoDB
+
+---
+
+## 📚 Currently Learning
+
+```text
+JavaScript
+   ↓
+TypeScript
+   ↓
+React
+   ↓
+Node.js + Express.js
+   ↓
+MongoDB
+   ↓
+GraphQL + Docker
+   ↓
+Full-Stack Development 🚀
+```
+
+---
+
+## 📊 GitHub Stats
+
+
+
+
+
+---
+
+## 🌐 Connect With Me
+
+
+
+---
+
+### 💡 "Keep learning. Keep building. Keep improving." 🚀
+
+⭐ Thanks for visiting my profile!
